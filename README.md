@@ -1,2 +1,3 @@
-# main_site
-My Personal Site
+# My Personal Site
+
+Feel free to look around.
