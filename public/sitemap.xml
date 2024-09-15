@@ -2,40 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/neovim-setup/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/vim/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/vim/</loc>
-    <lastmod>2022-05-13T01:22:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://shubmehetre.com/about/</loc>
     <lastmod>2022-05-01T03:07:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://shubmehetre.com/</loc>
+    <lastmod>2022-05-01T03:07:14+05:30</lastmod>
+  </url><url>
+    <loc>https://shubmehetre.com/posts/my-first-post/</loc>
     <lastmod>2022-05-01T02:58:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://shubmehetre.com/posts/</loc>
+    <lastmod>2022-05-01T02:58:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://shubmehetre.com/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://shubmehetre.com/archives/</loc>
+  </url><url>
+    <loc>https://shubmehetre.com/categories/</loc>
+  </url><url>
+    <loc>https://shubmehetre.com/search/</loc>
+  </url><url>
+    <loc>https://shubmehetre.com/tags/</loc>
   </url>
 </urlset>

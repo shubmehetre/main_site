@@ -10,8 +10,8 @@ theme = "papermod"
 title = "Shubs Site"
 
 #############################################################################
-
 # Main Page Greetings
+
 [params.homeInfoParams]
 Title = "Hello there !"
 Content = "Welcome to my personal website, where I share insights through my blog and manage personal data."
@@ -25,7 +25,7 @@ name = "Twitter"
 url = "https://x.com/shubmehetre"
 
 #############################################################################
-
+# Menus
 
 [[menu.main]]
 identifier = "tags"
@@ -49,3 +49,11 @@ weight = 34
 identifier = "about"
 name = "About"
 url = "/about/"
+
+#############################################################################
+# Misc
+
+linkFullImages = true
+ShowShareButtons = true
+ShowBreadCrumbs = true
+
