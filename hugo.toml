@@ -1,0 +1,51 @@
+#######################################
+# Basic Data
+
+baseURL = "https://shubmehetre.com/"
+languageCode = "en-us"
+author = "Shub"
+favicon = "/static/favicon.ico"
+# avatar = "/static/slayer.jpg"
+theme = "papermod"
+title = "Shubs Site"
+
+#############################################################################
+
+# Main Page Greetings
+[params.homeInfoParams]
+Title = "Hello there !"
+Content = "Welcome to my personal website, where I share insights through my blog and manage personal data."
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/shubmehetre"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://x.com/shubmehetre"
+
+#############################################################################
+
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 32
+
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume/"
+weight = 30
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 34
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
